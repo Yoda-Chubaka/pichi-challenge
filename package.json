@@ -1,6 +1,7 @@
 {
   "name": "mvp_v2",
   "homepage": "https://yoda-chubaka.github.io/pichi-challenge/",
+  "deploy": "gh-pages -d build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,6 +23,7 @@
     "ethers": "^5.5.1",
     "express": "^4.18.1",
     "fs": "^0.0.1-security",
+    "gh-pages": "^6.1.1",
     "graphql": "^16.0.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.3.3",
