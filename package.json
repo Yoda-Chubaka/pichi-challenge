@@ -1,6 +1,6 @@
 {
   "name": "mvp_v2",
-  "homepage": "https://yoda-chubaka.github.io/pichi-challenge/",
+  "homepage": "https://Yoda-Chubaka.github.io/pichi-challenge/",
   "deploy": "gh-pages -d build",
   "version": "0.1.0",
   "private": true,
