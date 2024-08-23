@@ -1,5 +1,6 @@
 {
   "name": "mvp_v2",
+  "homepage": "https://yod-chubaka.github.io/pichi-challenge/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
